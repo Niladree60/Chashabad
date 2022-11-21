@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Chashabad</string>
+    <string name="guide_text">Tap on an Image</string>
+    <string name="lang_btn_text">বাংলা</string>
+    <string name="title_activity_seed">Seeds</string>
+    <string name="seed_text">
+        "Cauliflower seeds should be sown in the field between April and May of the year. Cauliflower yield is better if the seeds of improved varieties are sown. Sufficient amount of fertilizer should be applied to the land at the time of sowing. Cauliflower seeds absorb water and nutrients from the soil. The seeds germinate. "Moisture is very important. It helps the seed coat to soften. The moisture combines with the nutrients or sugars inside the seed to make the necessary nutrients for germination."
+    </string>
+    <string name="seedling_text">
+    	"Germination usually occurs 15 to 20 days after sowing, but sometimes it may take up to 28 days. After germination, two leaves called cotyledons emerge from the seed. With these two leaves, the cauliflower plant starts photosynthesis (making food from sunlight). At this stage, cauliflower seedlings need to take a lot of care, protect the seedlings from rain and lack of rain and apply the necessary amount of pesticides and fertilizers to the land."
+    </string>
+    <string name="vine_text">
+        "At this stage, cauliflower begins to develop into stems and leaves. As the plant grows taller and sturdier, the plant needs to be cared for. New leaves appear regularly on the tree. During this time, some infectious diseases may appear, so sufficient amount of fertilizers and pesticides should be used. "
+    </string>
+    <string name="flower_text">
+        "After 35 days of sprouting, cauliflower begins to appear on the plant. New cauliflowers have low resistance to diseases, so adequate amounts of fertilizers and pesticides should be applied at this stage."
+    </string>
+    <string name="fruit_text">
+        "Cauliflower takes 8 to 16 weeks to produce. Timely harvesting of cauliflower from the plant is very important for maximum yield. If one wants, medium cauliflower can be picked from the ground, but if the cauliflower is transformed, then the yield is better if picked from the ground."
+    </string>
+    <string name="Cauliflower_text">
+        "Generally, cauliflower is 1 to 2 kg, it should be removed from the plant. Cauliflower is mainly a winter vegetable and is harvested from the ground in winter. Climate of Bangladesh is suitable for cauliflower cultivation."
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_seedling">Seedlings</string>
+    <string name="title_activity_vine">Vines</string>
+    <string name="title_activity_flower">Small cauliflower Tree</string>
+    <string name="title_activity_fruit">Medium Cauliflower </string>
+    <string name="title_activity_cauliflower">Mature Cauliflower</string>
+    <string name="title_text">Cauliflower Cultivation Cycle</string>
+</resources>
